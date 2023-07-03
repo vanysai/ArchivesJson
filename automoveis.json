@@ -1,0 +1,64 @@
+{
+    "automoveis": [
+        {
+            "placa": "ABC1234",
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "ano": "2019"
+        },
+        {
+            "placa": "DEF5678",
+            "marca": "Ford",
+            "modelo": "Ka",
+            "ano": "2018"
+        },
+        {
+            "placa": "GHI9012",
+            "marca": "Volkswagen",
+            "modelo": "Gol",
+            "ano": "2020"
+        },
+        {
+            "placa": "JKL3456",
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "ano": "2021"
+        },
+        {
+            "placa": "MNO7890",
+            "marca": "Honda",
+            "modelo": "Civic",
+            "ano": "2017"
+        },
+        {
+            "placa": "PQR2345",
+            "marca": "Hyundai",
+            "modelo": "HB20",
+            "ano": "2020"
+        },
+        {
+            "placa": "STU6789",
+            "marca": "Fiat",
+            "modelo": "Uno",
+            "ano": "2016"
+        },
+        {
+            "placa": "VWX0123",
+            "marca": "Renault",
+            "modelo": "Sandero",
+            "ano": "2019"
+        },
+        {
+            "placa": "YZA4567",
+            "marca": "Nissan",
+            "modelo": "Versa",
+            "ano": "2021"
+        },
+        {
+            "placa": "BCD8901",
+            "marca": "Kia",
+            "modelo": "Sportage",
+            "ano": "2018"
+        }
+    ]
+}
